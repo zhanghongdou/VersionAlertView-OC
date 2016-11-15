@@ -5,7 +5,7 @@
 <h2>什么是 VersionAlertView-OC</h2>
 <p>这是一个基于OC语言实现更新版本提示框</p>
 <p>相应的基于swift语言实现的更新版本提示框链接：https://github.com/zhanghongdou/VersionAlertView-Swift.git</p>
-<p>OC代码链接： https://github.com/zhanghongdou/VersionAlertView-Swift.git</p>
+<p>Swift代码链接： https://github.com/zhanghongdou/VersionAlertView-Swift.git</p>
 <h2>效果图展示</h2>
 
 <h3>强制更新效果图</h3>
